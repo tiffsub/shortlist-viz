@@ -1,11 +1,19 @@
 {
-  "generated": "2026-08-24 03:08",
+  "generated": "2026-08-24 04:47",
   "top_n": 20,
   "films": [
     {
       "show_id": 6800,
       "title": "Fjord",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 756
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 775
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 805
@@ -47,8 +55,20 @@
           "shortlist_count": 1826
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1896
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1984
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 2081
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 2087
         }
       ]
     },
@@ -56,6 +76,14 @@
       "show_id": 6917,
       "title": "The Debut",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 690
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 711
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 744
@@ -97,8 +125,20 @@
           "shortlist_count": 1758
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1817
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1901
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1992
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 2005
         }
       ]
     },
@@ -106,6 +146,14 @@
       "show_id": 6772,
       "title": "Bucking Fastard",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 635
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 652
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 684
@@ -147,8 +195,20 @@
           "shortlist_count": 1613
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1668
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1743
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1821
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1832
         }
       ]
     },
@@ -156,6 +216,14 @@
       "show_id": 6961,
       "title": "Wild Horse Nine",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 588
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 601
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 622
@@ -197,8 +265,20 @@
           "shortlist_count": 1448
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1513
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1583
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1658
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1671
         }
       ]
     },
@@ -206,6 +286,14 @@
       "show_id": 6829,
       "title": "Ink",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 597
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 611
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 633
@@ -247,8 +335,20 @@
           "shortlist_count": 1426
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1479
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1535
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1617
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1620
         }
       ]
     },
@@ -256,6 +356,14 @@
       "show_id": 6779,
       "title": "Club Kid",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 604
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 619
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 643
@@ -297,8 +405,20 @@
           "shortlist_count": 1413
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1464
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1517
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1588
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1595
         }
       ]
     },
@@ -306,6 +426,14 @@
       "show_id": 6965,
       "title": "Your Mother Your Mother Your Mother",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 547
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 563
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 590
@@ -347,8 +475,20 @@
           "shortlist_count": 1364
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1406
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1468
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1546
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1556
         }
       ]
     },
@@ -356,6 +496,14 @@
       "show_id": 6773,
       "title": "Bunker",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 487
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 499
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 519
@@ -397,8 +545,20 @@
           "shortlist_count": 1256
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1297
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1356
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1423
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1427
         }
       ]
     },
@@ -406,6 +566,14 @@
       "show_id": 6932,
       "title": "The Only Living Pickpocket in New York",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 462
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 474
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 496
@@ -447,8 +615,20 @@
           "shortlist_count": 1213
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1249
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1296
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1368
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1376
         }
       ]
     },
@@ -456,6 +636,14 @@
       "show_id": 6795,
       "title": "Everybody Wants to F*ck Me",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 436
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 453
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 475
@@ -497,8 +685,20 @@
           "shortlist_count": 1185
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1229
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1279
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1361
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1368
         }
       ]
     },
@@ -506,6 +706,14 @@
       "show_id": 6748,
       "title": "Alpha Gang",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 429
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 448
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 468
@@ -547,8 +755,20 @@
           "shortlist_count": 1079
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1114
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1155
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1214
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1221
         }
       ]
     },
@@ -556,6 +776,14 @@
       "show_id": 6746,
       "title": "All of a Sudden",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 485
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 501
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 522
@@ -597,8 +825,20 @@
           "shortlist_count": 1096
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1122
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1159
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1199
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1203
         }
       ]
     },
@@ -606,6 +846,14 @@
       "show_id": 6862,
       "title": "Misty Green",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 410
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 417
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 437
@@ -647,8 +895,20 @@
           "shortlist_count": 1048
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1076
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1126
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1185
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1193
         }
       ]
     },
@@ -656,6 +916,14 @@
       "show_id": 6793,
       "title": "Elsinore",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 422
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 434
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 449
@@ -697,8 +965,20 @@
           "shortlist_count": 1025
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1057
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1099
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1163
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1166
         }
       ]
     },
@@ -706,6 +986,14 @@
       "show_id": 6759,
       "title": "Babies",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 385
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 393
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 408
@@ -747,8 +1035,20 @@
           "shortlist_count": 989
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1034
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1078
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1145
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1153
         }
       ]
     },
@@ -756,6 +1056,14 @@
       "show_id": 6840,
       "title": "La Bola Negra",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 466
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 484
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 503
@@ -797,8 +1105,20 @@
           "shortlist_count": 1017
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1042
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1073
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1110
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1112
         }
       ]
     },
@@ -806,6 +1126,14 @@
       "show_id": 6879,
       "title": "Possible Love",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 402
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 412
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 432
@@ -847,8 +1175,20 @@
           "shortlist_count": 975
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1011
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1053
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1100
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1108
         }
       ]
     },
@@ -856,6 +1196,14 @@
       "show_id": 6902,
       "title": "Stuffed",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 374
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 381
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 395
@@ -897,8 +1245,20 @@
           "shortlist_count": 957
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 994
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1034
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1096
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1103
         }
       ]
     },
@@ -906,6 +1266,14 @@
       "show_id": 6740,
       "title": "A Long Winter",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 420
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 431
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 444
@@ -947,8 +1315,20 @@
           "shortlist_count": 972
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 1000
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1037
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1084
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1088
         }
       ]
     },
@@ -956,6 +1336,14 @@
       "show_id": 6741,
       "title": "A Talent for Murder",
       "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 343
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 351
+        },
         {
           "date": "2026-08-12",
           "shortlist_count": 367
@@ -997,8 +1385,20 @@
           "shortlist_count": 934
         },
         {
+          "date": "2026-08-22",
+          "shortlist_count": 963
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1007
+        },
+        {
           "date": "2026-08-24",
           "shortlist_count": 1063
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1066
         }
       ]
     }
