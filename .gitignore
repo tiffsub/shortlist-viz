@@ -1,0 +1,6 @@
+csv_bank/
+__pycache__/
+*.pyc
+scrape_shortlists.py
+generate_data.py
+update_site.py
