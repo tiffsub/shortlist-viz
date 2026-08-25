@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24 11:00",
+  "generated": "2026-08-25 11:00",
   "top_n": 20,
   "films": [
     {
@@ -65,6 +65,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 2091
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 2218
         }
       ]
     },
@@ -131,6 +135,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 2013
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 2156
         }
       ]
     },
@@ -197,6 +205,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1840
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1981
         }
       ]
     },
@@ -263,6 +275,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1682
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1805
         }
       ]
     },
@@ -329,6 +345,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1626
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1726
         }
       ]
     },
@@ -395,6 +415,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1604
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1715
         }
       ]
     },
@@ -461,6 +485,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1560
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1673
         }
       ]
     },
@@ -527,72 +555,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1437
-        }
-      ]
-    },
-    {
-      "show_id": 6932,
-      "title": "The Only Living Pickpocket in New York",
-      "history": [
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 462
         },
         {
-          "date": "2026-08-12",
-          "shortlist_count": 474
-        },
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 496
-        },
-        {
-          "date": "2026-08-13",
-          "shortlist_count": 663
-        },
-        {
-          "date": "2026-08-14",
-          "shortlist_count": 769
-        },
-        {
-          "date": "2026-08-15",
-          "shortlist_count": 839
-        },
-        {
-          "date": "2026-08-16",
-          "shortlist_count": 896
-        },
-        {
-          "date": "2026-08-17",
-          "shortlist_count": 953
-        },
-        {
-          "date": "2026-08-18",
-          "shortlist_count": 1009
-        },
-        {
-          "date": "2026-08-19",
-          "shortlist_count": 1080
-        },
-        {
-          "date": "2026-08-20",
-          "shortlist_count": 1143
-        },
-        {
-          "date": "2026-08-21",
-          "shortlist_count": 1213
-        },
-        {
-          "date": "2026-08-22",
-          "shortlist_count": 1249
-        },
-        {
-          "date": "2026-08-23",
-          "shortlist_count": 1296
-        },
-        {
-          "date": "2026-08-24",
-          "shortlist_count": 1378
+          "date": "2026-08-25",
+          "shortlist_count": 1536
         }
       ]
     },
@@ -659,6 +625,80 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1375
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1468
+        }
+      ]
+    },
+    {
+      "show_id": 6932,
+      "title": "The Only Living Pickpocket in New York",
+      "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 462
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 474
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 496
+        },
+        {
+          "date": "2026-08-13",
+          "shortlist_count": 663
+        },
+        {
+          "date": "2026-08-14",
+          "shortlist_count": 769
+        },
+        {
+          "date": "2026-08-15",
+          "shortlist_count": 839
+        },
+        {
+          "date": "2026-08-16",
+          "shortlist_count": 896
+        },
+        {
+          "date": "2026-08-17",
+          "shortlist_count": 953
+        },
+        {
+          "date": "2026-08-18",
+          "shortlist_count": 1009
+        },
+        {
+          "date": "2026-08-19",
+          "shortlist_count": 1080
+        },
+        {
+          "date": "2026-08-20",
+          "shortlist_count": 1143
+        },
+        {
+          "date": "2026-08-21",
+          "shortlist_count": 1213
+        },
+        {
+          "date": "2026-08-22",
+          "shortlist_count": 1249
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1296
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1378
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1463
         }
       ]
     },
@@ -725,6 +765,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1226
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1315
         }
       ]
     },
@@ -791,6 +835,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1208
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1276
         }
       ]
     },
@@ -857,6 +905,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1195
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1257
         }
       ]
     },
@@ -923,6 +975,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1169
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1251
         }
       ]
     },
@@ -989,72 +1045,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1159
-        }
-      ]
-    },
-    {
-      "show_id": 6840,
-      "title": "La Bola Negra",
-      "history": [
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 466
         },
         {
-          "date": "2026-08-12",
-          "shortlist_count": 484
-        },
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 503
-        },
-        {
-          "date": "2026-08-13",
-          "shortlist_count": 645
-        },
-        {
-          "date": "2026-08-14",
-          "shortlist_count": 721
-        },
-        {
-          "date": "2026-08-15",
-          "shortlist_count": 769
-        },
-        {
-          "date": "2026-08-16",
-          "shortlist_count": 812
-        },
-        {
-          "date": "2026-08-17",
-          "shortlist_count": 853
-        },
-        {
-          "date": "2026-08-18",
-          "shortlist_count": 902
-        },
-        {
-          "date": "2026-08-19",
-          "shortlist_count": 945
-        },
-        {
-          "date": "2026-08-20",
-          "shortlist_count": 974
-        },
-        {
-          "date": "2026-08-21",
-          "shortlist_count": 1017
-        },
-        {
-          "date": "2026-08-22",
-          "shortlist_count": 1042
-        },
-        {
-          "date": "2026-08-23",
-          "shortlist_count": 1073
-        },
-        {
-          "date": "2026-08-24",
-          "shortlist_count": 1114
+          "date": "2026-08-25",
+          "shortlist_count": 1237
         }
       ]
     },
@@ -1121,6 +1115,80 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1112
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1186
+        }
+      ]
+    },
+    {
+      "show_id": 6840,
+      "title": "La Bola Negra",
+      "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 466
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 484
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 503
+        },
+        {
+          "date": "2026-08-13",
+          "shortlist_count": 645
+        },
+        {
+          "date": "2026-08-14",
+          "shortlist_count": 721
+        },
+        {
+          "date": "2026-08-15",
+          "shortlist_count": 769
+        },
+        {
+          "date": "2026-08-16",
+          "shortlist_count": 812
+        },
+        {
+          "date": "2026-08-17",
+          "shortlist_count": 853
+        },
+        {
+          "date": "2026-08-18",
+          "shortlist_count": 902
+        },
+        {
+          "date": "2026-08-19",
+          "shortlist_count": 945
+        },
+        {
+          "date": "2026-08-20",
+          "shortlist_count": 974
+        },
+        {
+          "date": "2026-08-21",
+          "shortlist_count": 1017
+        },
+        {
+          "date": "2026-08-22",
+          "shortlist_count": 1042
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1073
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1114
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1182
         }
       ]
     },
@@ -1187,6 +1255,10 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1106
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1166
         }
       ]
     },
@@ -1253,72 +1325,80 @@
         {
           "date": "2026-08-24",
           "shortlist_count": 1091
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1163
         }
       ]
     },
     {
-      "show_id": 6741,
-      "title": "A Talent for Murder",
+      "show_id": 6921,
+      "title": "The Face of Horror",
       "history": [
         {
           "date": "2026-08-12",
-          "shortlist_count": 343
+          "shortlist_count": 405
         },
         {
           "date": "2026-08-12",
-          "shortlist_count": 351
+          "shortlist_count": 416
         },
         {
           "date": "2026-08-12",
-          "shortlist_count": 367
+          "shortlist_count": 431
         },
         {
           "date": "2026-08-13",
-          "shortlist_count": 502
+          "shortlist_count": 555
         },
         {
           "date": "2026-08-14",
-          "shortlist_count": 586
+          "shortlist_count": 637
         },
         {
           "date": "2026-08-15",
-          "shortlist_count": 639
+          "shortlist_count": 681
         },
         {
           "date": "2026-08-16",
-          "shortlist_count": 671
+          "shortlist_count": 725
         },
         {
           "date": "2026-08-17",
-          "shortlist_count": 737
+          "shortlist_count": 770
         },
         {
           "date": "2026-08-18",
-          "shortlist_count": 792
+          "shortlist_count": 820
         },
         {
           "date": "2026-08-19",
-          "shortlist_count": 836
+          "shortlist_count": 863
         },
         {
           "date": "2026-08-20",
-          "shortlist_count": 878
+          "shortlist_count": 909
         },
         {
           "date": "2026-08-21",
-          "shortlist_count": 934
+          "shortlist_count": 943
         },
         {
           "date": "2026-08-22",
-          "shortlist_count": 963
+          "shortlist_count": 968
         },
         {
           "date": "2026-08-23",
-          "shortlist_count": 1007
+          "shortlist_count": 999
         },
         {
           "date": "2026-08-24",
-          "shortlist_count": 1069
+          "shortlist_count": 1057
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1128
         }
       ]
     }
