@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25 11:00",
+  "generated": "2026-08-26 11:00",
   "top_n": 20,
   "films": [
     {
@@ -69,6 +69,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 2218
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 2370
         }
       ]
     },
@@ -139,6 +143,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 2156
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 2303
         }
       ]
     },
@@ -209,6 +217,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1981
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 2123
         }
       ]
     },
@@ -279,6 +291,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1805
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1927
         }
       ]
     },
@@ -349,6 +365,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1726
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1849
         }
       ]
     },
@@ -419,6 +439,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1715
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1824
         }
       ]
     },
@@ -489,6 +513,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1673
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1779
         }
       ]
     },
@@ -559,6 +587,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1536
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1656
         }
       ]
     },
@@ -629,6 +661,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1468
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1581
         }
       ]
     },
@@ -699,6 +735,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1463
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1547
         }
       ]
     },
@@ -769,6 +809,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1315
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1421
         }
       ]
     },
@@ -839,6 +883,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1276
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1369
         }
       ]
     },
@@ -909,76 +957,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1257
-        }
-      ]
-    },
-    {
-      "show_id": 6793,
-      "title": "Elsinore",
-      "history": [
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 422
         },
         {
-          "date": "2026-08-12",
-          "shortlist_count": 434
-        },
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 449
-        },
-        {
-          "date": "2026-08-13",
-          "shortlist_count": 584
-        },
-        {
-          "date": "2026-08-14",
-          "shortlist_count": 659
-        },
-        {
-          "date": "2026-08-15",
-          "shortlist_count": 716
-        },
-        {
-          "date": "2026-08-16",
-          "shortlist_count": 762
-        },
-        {
-          "date": "2026-08-17",
-          "shortlist_count": 813
-        },
-        {
-          "date": "2026-08-18",
-          "shortlist_count": 872
-        },
-        {
-          "date": "2026-08-19",
-          "shortlist_count": 915
-        },
-        {
-          "date": "2026-08-20",
-          "shortlist_count": 961
-        },
-        {
-          "date": "2026-08-21",
-          "shortlist_count": 1025
-        },
-        {
-          "date": "2026-08-22",
-          "shortlist_count": 1057
-        },
-        {
-          "date": "2026-08-23",
-          "shortlist_count": 1099
-        },
-        {
-          "date": "2026-08-24",
-          "shortlist_count": 1169
-        },
-        {
-          "date": "2026-08-25",
-          "shortlist_count": 1251
+          "date": "2026-08-26",
+          "shortlist_count": 1339
         }
       ]
     },
@@ -1049,6 +1031,84 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1237
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1329
+        }
+      ]
+    },
+    {
+      "show_id": 6793,
+      "title": "Elsinore",
+      "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 422
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 434
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 449
+        },
+        {
+          "date": "2026-08-13",
+          "shortlist_count": 584
+        },
+        {
+          "date": "2026-08-14",
+          "shortlist_count": 659
+        },
+        {
+          "date": "2026-08-15",
+          "shortlist_count": 716
+        },
+        {
+          "date": "2026-08-16",
+          "shortlist_count": 762
+        },
+        {
+          "date": "2026-08-17",
+          "shortlist_count": 813
+        },
+        {
+          "date": "2026-08-18",
+          "shortlist_count": 872
+        },
+        {
+          "date": "2026-08-19",
+          "shortlist_count": 915
+        },
+        {
+          "date": "2026-08-20",
+          "shortlist_count": 961
+        },
+        {
+          "date": "2026-08-21",
+          "shortlist_count": 1025
+        },
+        {
+          "date": "2026-08-22",
+          "shortlist_count": 1057
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 1099
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1169
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1251
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1328
         }
       ]
     },
@@ -1119,6 +1179,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1186
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1292
         }
       ]
     },
@@ -1189,6 +1253,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1182
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1246
         }
       ]
     },
@@ -1259,6 +1327,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1166
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1245
         }
       ]
     },
@@ -1329,6 +1401,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1163
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1238
         }
       ]
     },
@@ -1399,6 +1475,10 @@
         {
           "date": "2026-08-25",
           "shortlist_count": 1128
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1210
         }
       ]
     }
