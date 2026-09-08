@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07 11:00",
+  "generated": "2026-09-08 11:00",
   "top_n": 20,
   "films": [
     {
@@ -121,6 +121,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2928
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2972
         }
       ]
     },
@@ -243,6 +247,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2836
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2878
         }
       ]
     },
@@ -365,6 +373,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2624
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2666
         }
       ]
     },
@@ -487,6 +499,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2388
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2426
         }
       ]
     },
@@ -609,6 +625,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2275
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2316
         }
       ]
     },
@@ -731,6 +751,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2272
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2302
         }
       ]
     },
@@ -853,6 +877,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2240
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2275
         }
       ]
     },
@@ -975,6 +1003,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 2096
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2129
         }
       ]
     },
@@ -1097,6 +1129,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1982
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 2018
         }
       ]
     },
@@ -1219,6 +1255,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1889
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1919
         }
       ]
     },
@@ -1341,6 +1381,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1785
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1814
         }
       ]
     },
@@ -1463,6 +1507,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1733
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1775
         }
       ]
     },
@@ -1585,6 +1633,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1718
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1752
         }
       ]
     },
@@ -1707,6 +1759,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1696
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1736
         }
       ]
     },
@@ -1829,6 +1885,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1683
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1716
         }
       ]
     },
@@ -1951,6 +2011,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1679
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1702
         }
       ]
     },
@@ -2073,6 +2137,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1571
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1599
         }
       ]
     },
@@ -2195,6 +2263,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1552
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1574
         }
       ]
     },
@@ -2317,6 +2389,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1534
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1563
         }
       ]
     },
@@ -2439,6 +2515,10 @@
         {
           "date": "2026-09-07",
           "shortlist_count": 1530
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1560
         }
       ]
     }
