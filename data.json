@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08 11:00",
+  "generated": "2026-09-09 11:00",
   "top_n": 20,
   "films": [
     {
@@ -125,6 +125,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2972
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 3012
         }
       ]
     },
@@ -251,6 +255,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2878
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2921
         }
       ]
     },
@@ -377,6 +385,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2666
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2696
         }
       ]
     },
@@ -503,6 +515,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2426
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2455
         }
       ]
     },
@@ -629,6 +645,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2316
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2342
         }
       ]
     },
@@ -755,6 +775,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2302
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2335
         }
       ]
     },
@@ -881,6 +905,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2275
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2309
         }
       ]
     },
@@ -1007,6 +1035,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2129
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2156
         }
       ]
     },
@@ -1133,6 +1165,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 2018
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 2054
         }
       ]
     },
@@ -1259,6 +1295,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1919
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1936
         }
       ]
     },
@@ -1385,6 +1425,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1814
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1846
         }
       ]
     },
@@ -1511,6 +1555,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1775
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1800
         }
       ]
     },
@@ -1637,6 +1685,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1752
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1777
         }
       ]
     },
@@ -1763,6 +1815,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1736
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1763
         }
       ]
     },
@@ -1889,6 +1945,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1716
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1745
         }
       ]
     },
@@ -2015,6 +2075,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1702
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1717
         }
       ]
     },
@@ -2141,6 +2205,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1599
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1621
         }
       ]
     },
@@ -2267,132 +2335,10 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1574
-        }
-      ]
-    },
-    {
-      "show_id": 6921,
-      "title": "The Face of Horror",
-      "history": [
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 405
         },
         {
-          "date": "2026-08-12",
-          "shortlist_count": 416
-        },
-        {
-          "date": "2026-08-12",
-          "shortlist_count": 431
-        },
-        {
-          "date": "2026-08-13",
-          "shortlist_count": 555
-        },
-        {
-          "date": "2026-08-14",
-          "shortlist_count": 637
-        },
-        {
-          "date": "2026-08-15",
-          "shortlist_count": 681
-        },
-        {
-          "date": "2026-08-16",
-          "shortlist_count": 725
-        },
-        {
-          "date": "2026-08-17",
-          "shortlist_count": 770
-        },
-        {
-          "date": "2026-08-18",
-          "shortlist_count": 820
-        },
-        {
-          "date": "2026-08-19",
-          "shortlist_count": 863
-        },
-        {
-          "date": "2026-08-20",
-          "shortlist_count": 909
-        },
-        {
-          "date": "2026-08-21",
-          "shortlist_count": 943
-        },
-        {
-          "date": "2026-08-22",
-          "shortlist_count": 968
-        },
-        {
-          "date": "2026-08-23",
-          "shortlist_count": 999
-        },
-        {
-          "date": "2026-08-24",
-          "shortlist_count": 1057
-        },
-        {
-          "date": "2026-08-25",
-          "shortlist_count": 1128
-        },
-        {
-          "date": "2026-08-26",
-          "shortlist_count": 1210
-        },
-        {
-          "date": "2026-08-27",
-          "shortlist_count": 1268
-        },
-        {
-          "date": "2026-08-28",
-          "shortlist_count": 1300
-        },
-        {
-          "date": "2026-08-29",
-          "shortlist_count": 1331
-        },
-        {
-          "date": "2026-08-30",
-          "shortlist_count": 1354
-        },
-        {
-          "date": "2026-08-31",
-          "shortlist_count": 1374
-        },
-        {
-          "date": "2026-09-01",
-          "shortlist_count": 1407
-        },
-        {
-          "date": "2026-09-02",
-          "shortlist_count": 1437
-        },
-        {
-          "date": "2026-09-03",
-          "shortlist_count": 1457
-        },
-        {
-          "date": "2026-09-04",
-          "shortlist_count": 1476
-        },
-        {
-          "date": "2026-09-05",
-          "shortlist_count": 1495
-        },
-        {
-          "date": "2026-09-06",
-          "shortlist_count": 1514
-        },
-        {
-          "date": "2026-09-07",
-          "shortlist_count": 1534
-        },
-        {
-          "date": "2026-09-08",
-          "shortlist_count": 1563
+          "date": "2026-09-09",
+          "shortlist_count": 1591
         }
       ]
     },
@@ -2519,6 +2465,140 @@
         {
           "date": "2026-09-08",
           "shortlist_count": 1560
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1581
+        }
+      ]
+    },
+    {
+      "show_id": 6921,
+      "title": "The Face of Horror",
+      "history": [
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 405
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 416
+        },
+        {
+          "date": "2026-08-12",
+          "shortlist_count": 431
+        },
+        {
+          "date": "2026-08-13",
+          "shortlist_count": 555
+        },
+        {
+          "date": "2026-08-14",
+          "shortlist_count": 637
+        },
+        {
+          "date": "2026-08-15",
+          "shortlist_count": 681
+        },
+        {
+          "date": "2026-08-16",
+          "shortlist_count": 725
+        },
+        {
+          "date": "2026-08-17",
+          "shortlist_count": 770
+        },
+        {
+          "date": "2026-08-18",
+          "shortlist_count": 820
+        },
+        {
+          "date": "2026-08-19",
+          "shortlist_count": 863
+        },
+        {
+          "date": "2026-08-20",
+          "shortlist_count": 909
+        },
+        {
+          "date": "2026-08-21",
+          "shortlist_count": 943
+        },
+        {
+          "date": "2026-08-22",
+          "shortlist_count": 968
+        },
+        {
+          "date": "2026-08-23",
+          "shortlist_count": 999
+        },
+        {
+          "date": "2026-08-24",
+          "shortlist_count": 1057
+        },
+        {
+          "date": "2026-08-25",
+          "shortlist_count": 1128
+        },
+        {
+          "date": "2026-08-26",
+          "shortlist_count": 1210
+        },
+        {
+          "date": "2026-08-27",
+          "shortlist_count": 1268
+        },
+        {
+          "date": "2026-08-28",
+          "shortlist_count": 1300
+        },
+        {
+          "date": "2026-08-29",
+          "shortlist_count": 1331
+        },
+        {
+          "date": "2026-08-30",
+          "shortlist_count": 1354
+        },
+        {
+          "date": "2026-08-31",
+          "shortlist_count": 1374
+        },
+        {
+          "date": "2026-09-01",
+          "shortlist_count": 1407
+        },
+        {
+          "date": "2026-09-02",
+          "shortlist_count": 1437
+        },
+        {
+          "date": "2026-09-03",
+          "shortlist_count": 1457
+        },
+        {
+          "date": "2026-09-04",
+          "shortlist_count": 1476
+        },
+        {
+          "date": "2026-09-05",
+          "shortlist_count": 1495
+        },
+        {
+          "date": "2026-09-06",
+          "shortlist_count": 1514
+        },
+        {
+          "date": "2026-09-07",
+          "shortlist_count": 1534
+        },
+        {
+          "date": "2026-09-08",
+          "shortlist_count": 1563
+        },
+        {
+          "date": "2026-09-09",
+          "shortlist_count": 1581
         }
       ]
     }
